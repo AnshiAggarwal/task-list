@@ -1,0 +1,11 @@
+{
+  "name": "tasklist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "serve" : "live-server --port=5678 --no-browser"
+  },
+  "author": "",
+  "license": "ISC"
+}
